@@ -1,0 +1,3 @@
+N,D=map(int,input().split())
+print(int((N+D*2)/(D*2+1)))
+#答え見ちゃった…
